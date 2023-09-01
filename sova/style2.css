@@ -1,0 +1,39 @@
+/* 以前のCSSコード */
+
+#sova {
+    background-color: #fff;
+    padding: 20px;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+#sova h2 {
+    color: #004080;
+    font-size: 28px;
+}
+
+#sova img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+
+#sova p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+#sova h3 {
+    color: #004080;
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+#sova ul {
+    margin-left: 20px;
+}
+
+#sova li {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
