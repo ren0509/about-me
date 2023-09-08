@@ -1,0 +1,36 @@
+/* ページ全体のスタイル */
+body {
+    font-family: Arial, sans-serif; /* フォントの設定 */
+    background-color: #f0f0f0; /* 背景色の設定 */
+    margin: 0; /* マージンを0に設定して余白をなくす */
+    padding: 0; /* パディングを0に設定して余白をなくす */
+}
+
+/* ヘッダーのスタイル */
+h1 {
+    text-align: center; /* 中央揃え */
+    background-color:#004080; /* 背景色の設定 */
+    color: #fff; /* テキスト色の設定 */
+    padding: 20px; /* パディングを追加 */
+}
+
+/* お問い合わせ情報のスタイル */
+ul {
+    list-style-type: none; /* 箇条書きのマーカーを非表示にする */
+    padding: 0; /* パディングを0に設定して余白をなくす */
+}
+
+li {
+    margin-bottom: 10px; /* 各項目の下に余白を追加 */
+    font-size: 16px; /* フォントサイズの設定 */
+}
+
+/* リンクのスタイル */
+a {
+    color: #007bff; /* リンクの色を設定 */
+    text-decoration: none; /* アンダーラインを非表示にする */
+}
+
+a:hover {
+    text-decoration: underline; /* マウスホバー時にアンダーラインを表示 */
+}
